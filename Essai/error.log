@@ -1,0 +1,5 @@
+PDOException: SQLSTATE[HY000] [1049] Unknown database 'users' in C:\xampp\htdocs\bdd\bdd.php:13
+Stack trace:
+#0 C:\xampp\htdocs\bdd\bdd.php(13): PDO->__construct('mysql:host=loca...', 'root', Object(SensitiveParameterValue))
+#1 C:\xampp\htdocs\bdd\connexion.php(5): bdd->connect()
+#2 {main}
