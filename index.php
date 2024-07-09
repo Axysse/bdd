@@ -41,7 +41,7 @@ if (isset($_POST['submit'])) {
 echo "<pre>";
 var_dump($users);
 echo "</pre>";
-sdfdfsdf
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
